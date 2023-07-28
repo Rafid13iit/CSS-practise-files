@@ -1,0 +1,14 @@
+/* Remember that the height and width properties do not include padding, borders, or margins! They set the height/width of the area inside the 
+padding, border, and margin of the element! */
+
+div {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
+  }
+
+p {
+    max-width: 100px;
+    height: 500px;
+    background-color: powderblue;
+  }

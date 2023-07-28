@@ -1,0 +1,30 @@
+#p1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+  }
+
+  /* margin shorthand property: top, right, bottom, left */
+  #p2 {
+    margin: 25px 50px 75px 100px;
+  } 
+
+  /* auto margin */
+  div {
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+  }
+
+
+  /* inherit margin */
+  h2 {
+    width: 300px;
+    border: 1px solid red;
+    margin-left: 100px;
+  }
+  
+  h3.ex1 {
+    margin-left: inherit;
+  }
