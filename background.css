@@ -1,0 +1,6 @@
+body {
+    background-image: url("car.jpg");
+    background-size: cover;
+    opacity: 0.6;
+    background-attachment: fixed; /* will not scroll with the rest of the page */
+}
